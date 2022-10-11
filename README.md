@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## TECHNOLOGIES USED
+1. Ruby on Rails
+2. SQLite
 
-Things you may want to cover:
+# HOW TO USE REPO
+## 1. FORK AND CLONE REPO ON LOCAL MACHINE
+`git clone git@github.com:Ruby-Supremes/Superheroes-Code-Challenge-Ivy.git`
+## 2. cd into the project directory
+`cd Superheroes-Code-Challenge-Ivy`
 
-* Ruby version
 
-* System dependencies
+# HOW TO START THE SUPERHEROES API
+## 1.INSTALLING DEPENDENCIES
+`bundle install` to install gem files
+## 2. CARRYING OUT MIGRATIONS AND SEEDING
+`rails db:migrate db:seed`
+## 3. RUNNING THE RAILS SERVER
+`rails s`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# AUTHOR
+Ivy Ronoh
